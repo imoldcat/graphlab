@@ -1,0 +1,8 @@
+Known
+- Graph join class (join two data graphs together)
+
+To Clarify
+- dynamic local graph
+- dynamic csr storage  graphlab/util/generics/dynamic_csr_storage.hpp
+- changed graph storage (seems added into localgraph)  graphlab/util/generics/csr_storage.hpp
+
